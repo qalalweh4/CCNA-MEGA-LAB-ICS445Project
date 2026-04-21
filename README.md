@@ -4,6 +4,7 @@
 > Course: ICS445 — Network Management & Security
 > Instructor: Dr. Farag Azzedin
 > Term: 252 (April 2026)
+> https://ics445project.replit.app/ics445-presentation/
 
 ---
 
